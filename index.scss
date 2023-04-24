@@ -1,0 +1,90 @@
+.div1 {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(151, 198, 214);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+    .div1-1 {
+        width: 80%;
+        text-align: center;
+
+        .div1-3 {
+            width: 100%;
+            margin-top: 25px;
+
+            .div1-4 {
+
+                width: 100%;
+                display: flex;
+                justify-content: center;
+                margin-top: 20px;
+
+                input {
+                    margin-left: 25px;
+                }
+            }
+        }
+
+        .btn {
+            width: 350px;
+            height: 50px;
+            font-size: 30px;
+            margin-top: 25px;
+        }
+    }
+
+    .ul1 {
+        list-style: none;
+        font-size: 36px;
+        font-weight: bold;
+    }
+}
+
+.boxes {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(124, 168, 203);
+    position: relative;
+
+    .box {
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        transition: 1s;
+    }
+
+    .box1 {
+        background-color: black;
+        top: 0;
+        left: 0;
+
+    }
+
+    .box2 {
+        background-color: rgb(251, 1, 1);
+        top: 0;
+        left: 200px;
+    }
+
+    .box3 {
+        background-color: rgb(71, 8, 233);
+        top: 0;
+        left: 400px;
+    }
+
+    .box-move-down {
+        top: 300px;
+    }
+}
+
+.bt1 {
+    width: 200px;
+    height: 40px;
+    border-radius: 50px;
+    font-size: 28px;
+    font-weight: bold;
+}
