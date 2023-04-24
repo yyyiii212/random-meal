@@ -1,62 +1,116 @@
 [
     {
         "name": "食在一方",
-        "category": ["brunch"],
+        "category": [
+            "brunch"
+        ],
         "filter": false
     },
     {
         "name": "日十",
-        "category": ["brunch"],
+        "category": [
+            "brunch"
+        ],
         "filter": false
     },
     {
         "name": "鹽行站",
-        "category": ["buffet", "rice"],
+        "category": [
+            "buffet",
+            "rice"
+        ],
         "filter": false
     },
     {
         "name": "鍋燒麵",
-        "category": ["noodle"],
+        "category": [
+            "noodle"
+        ],
         "filter": false
     },
     {
         "name": "炒飯",
-        "category": ["rice"],
+        "category": [
+            "rice"
+        ],
         "filter": false
     },
     {
         "name": "八方雲集",
-        "category": ["others"],
+        "category": [
+            "others"
+        ],
         "filter": false
     },
     {
         "name": "火鍋",
-        "category": ["others"],
+        "category": [
+            "others"
+        ],
         "filter": false
     },
     {
         "name": "韓式料理",
-        "category": ["rice", "noodle"],
+        "category": [
+            "rice",
+            "noodle"
+        ],
         "filter": false
     },
     {
         "name": "小飯糰大飯糰",
-        "category": ["rice"],
+        "category": [
+            "rice"
+        ],
         "filter": false
     },
     {
         "name": "後校門滷肉飯",
-        "category": ["rice", "noodle"],
+        "category": [
+            "rice",
+            "noodle"
+        ],
         "filter": false
     },
     {
         "name": "魚耶",
-        "category": ["brunch", "rice", "noodle"],
+        "category": [
+            "brunch",
+            "rice",
+            "noodle"
+        ],
         "filter": false
     },
     {
         "name": "吳家鴨香飯",
-        "category": ["rice", "noodle"],
+        "category": [
+            "rice",
+            "noodle"
+        ],
+        "filter": false
+    },
+    {
+        "name": "神武拉麵",
+        "category": [
+            "noodle"
+        ],
+        "filter": false
+    },
+    {
+        "name": "羊肉店",
+        "category": [
+            "rice",
+            "noodle",
+            "others"
+        ],
+        "filter": false
+    },
+    {
+        "name": "森丼",
+        "category": [
+            "rice",
+            "noodle"
+        ],
         "filter": false
     }
 ]
